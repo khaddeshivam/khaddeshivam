@@ -67,8 +67,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaddeshivam&show_icons=true&theme=react&count_private=true&hide=prs" />
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaddeshivam&show_icons=true&theme=react&count_private=true&hide=prs" />&nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaddeshivam&layout=compact&theme=react" />
 </p>
 
