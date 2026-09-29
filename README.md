@@ -1,98 +1,264 @@
-<h1 align="center">Hey There! 👋</h1>
-<h3 align="center">🚀 I'm Shivam Khadde — Android Developer | Full Stack Learner | AI × AR Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/khaddeshivam"><img src="https://komarev.com/ghpvc/?username=khaddeshivam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></a>
-  <a href="https://khaddeshivam.hashnode.dev"><img src="https://img.shields.io/badge/Blog-Hashnode-blue?style=flat-square&logo=hashnode" alt="Blog" /></a>
-  <a href="https://khaddeshivam.netlify.app"><img src="https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=google-chrome" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/khaddeshivam"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@shivamkhadde"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube" alt="YouTube" /></a>
-  <a href="https://twitter.com/khaddeshivam"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter" alt="Twitter" /></a>
+<img src="assets/ai-lab.gif" width="100%" alt="Animated AI lab console">
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Software+Development+Engineer;GenAI+%7C+RAG+%7C+Agentic+AI;Building+products%2C+not+just+demos;Curiosity+is+part+of+the+stack" alt="Typing animation">
+</a>
+
+<p>
+<a href="https://github.com/khaddeshivam"><img src="https://img.shields.io/badge/Explore%20my%20code-111827?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
-
-## 🙋‍♂️ About Me
-
-🎓 BE Computer Engineering @ SPPU  
-📱 Android App Developer (Java & Kotlin)  
-🔭 Currently building an **AI + AR Personal Healthcare Assistant**  
-💬 Ask me about Firebase, REST APIs, GitHub, Spring Boot, and the MERN Stack  
-🏆 Interned as Android Developer @ BluePlanet Infosolutions  
-🌟 Open to collaborating on open-source and impactful tech  
-🧠 Inspired by: **Dr. A.P.J. Abdul Kalam** 🙇‍♂️
+</div>
 
 ---
 
-## 💻 Languages & Technologies I Work With
+## 👀 You found the lab.
 
-### 🧠 Programming Languages  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+I'm **Shivam**, a Software Development Engineer building software at the intersection of **product engineering and modern AI**.
 
-### ⚙️ Frameworks & Libraries  
-![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
-![Retrofit](https://img.shields.io/badge/Retrofit-FF6F00?style=flat&logo=android)
+I like projects with a question behind them:
 
-### 🧰 Tools & Platforms  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+> **Can software understand something?**  
+> **Can it reason over data?**  
+> **Can it use tools and take action?**  
+> **Can we make the system reliable when things go wrong?**
 
-### 💾 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-
-### 🖥️ Operating Systems  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu)
+That rabbit hole is currently taking me through **GenAI → RAG → Agentic AI**.
 
 ---
 
-## 📊 GitHub Stats
+## 🧪 What am I building?
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaddeshivam&show_icons=true&theme=react&count_private=true&hide=prs" />&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaddeshivam&layout=compact&theme=react" />
-</p>
+```text
+                    ┌───────────────┐
+                    │    Problem    │
+                    └───────┬───────┘
+                            ↓
+                  ┌───────────────────┐
+                  │  Software System  │
+                  └────────┬──────────┘
+                           ↓
+                 ┌─────────────────────┐
+                 │      AI Layer       │
+                 │  RAG • LLM • Agent  │
+                 └─────────┬───────────┘
+                           ↓
+                ┌──────────────────────┐
+                │   Useful Outcome     │
+                └──────────────────────┘
+```
+
+My sweet spot is where **good engineering gives AI a real product to live inside**.
+
+# 🚀 Things I've Built
+
+### 💰 FinPilot
+**What if a finance app could understand your money instead of only displaying it?**
+
+An AI-native financial platform combining application engineering with ML, RAG and generative AI.
+
+`Java 21` `Spring Boot` `PostgreSQL` `React` `TypeScript` `RAG` `LLMs`
+
+**Explore →** [FinPilot](https://github.com/khaddeshivam/FinPilot)
 
 ---
 
-## 🏆 GitHub Trophies
+### 🚆 Railway Reservation Backend
+**What happens when two people try to grab the same seat?**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khaddeshivam&theme=algolia&no-frame=true&title=Stars,Followers,Commits,PullRequest,Issues,Repositories&margin-w=10&column=6" />
-</p>
+A reservation backend built around transactional correctness and concurrent booking scenarios.
 
----
+`Java` `Spring Boot` `PostgreSQL` `JWT`
 
-## ✨ Quote I Live By
-
-> “A dream is not that which you see while sleeping, it is something that does not let you sleep.”  
-> — *Dr. A.P.J. Abdul Kalam*
+**Engineering rabbit hole →** [Concurrency & Reservation Logic](https://github.com/khaddeshivam/railway-reservation-backend)
 
 ---
 
-## 🌟 Let's Connect & Collaborate
+### 🧠 RAG Chatbot
+**Can an LLM answer from knowledge it wasn't trained on?**
 
-🔗 [Portfolio](#)  
-💼 [LinkedIn](https://linkedin.com/in/khaddeshivam)  
+A document-grounded application combining ingestion, retrieval and generation.
+
+`Python` `RAG` `Chroma` `OpenAI` `Groq` `Anthropic` `Streamlit`
+
+**Try it →** [Live Demo](https://rag-chatbot-fyezzspbhisbfydb7zlbl7.streamlit.app/) · **Code →** [Repository](https://github.com/khaddeshivam/rag-chatbot)
 
 ---
 
-⭐️ *If you liked this README, feel free to star a repo and follow — let's grow together!*
+### 👥 Employee Management System
+**Can application security be designed around roles instead of scattered checks?**
+
+A full-stack application with authentication, authorization and role-specific workflows.
+
+`Spring Boot` `Spring Security` `JWT` `PostgreSQL` `React`
+
+**Explore →** [Repository](https://github.com/khaddeshivam/Employee-Management-System)
+
+---
+
+# 🤖 The AI Rabbit Hole
+
+```text
+        GENAI
+          │
+          ├── LLM Applications
+          ├── Prompt Engineering
+          │
+          ▼
+         RAG
+          │
+          ├── Embeddings
+          ├── Vector Search
+          ├── Retrieval
+          └── Evaluation
+          │
+          ▼
+      AGENTIC AI
+          │
+          ├── Tool Calling
+          ├── Planning
+          ├── Memory
+          ├── Multi-step Workflows
+          └── Autonomous Actions
+```
+
+I'm interested in systems where AI can move beyond:
+
+**"Here is an answer."**
+
+toward:
+
+**"Here is what I found → here is what I decided → here is the tool I used → here is what happened."**
+
+---
+
+# 🛠️ Open the Toolbox
+
+<details>
+<summary><b>Unlock the stack</b> 🔓</summary>
+
+<br/>
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=java,python,cpp,js,ts)
+
+**Application Engineering**
+
+![Application Engineering](https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,html,css)
+
+**Data / Infrastructure**
+
+![Data](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,git,github)
+
+**AI**
+
+`RAG` · `LLMs` · `Embeddings` · `Vector Search` · `Prompt Engineering` · `AI Agents`
+
+</details>
+
+---
+
+# 🧭 Current Mission
+
+```text
+[✓] Build software
+[✓] Learn by shipping
+[✓] Explore GenAI
+[ ] Build deeper agentic systems
+[ ] Push more experiments into production
+[ ] Keep making weird ideas useful
+```
+
+---
+
+# 📊 GitHub Telemetry
+
+<div align="center">
+
+<a href="https://github.com/khaddeshivam">
+<img src="https://github-stats-extended.vercel.app/api?username=khaddeshivam&show_icons=true&hide_border=true&rank_icon=github" height="180" alt="GitHub stats">
+</a>
+
+<a href="https://github.com/khaddeshivam">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khaddeshivam&layout=compact&hide_border=true" height="180" alt="Top languages">
+</a>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=khaddeshivam&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies">
+
+</div>
+
+---
+
+# 🎮 Contribution Arcade
+
+### 🐍 Snake is eating my commits.
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaddeshivam/khaddeshivam/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaddeshivam/khaddeshivam/output/github-contribution-grid-snake.svg">
+<img alt="Animated snake eating GitHub contributions" src="https://raw.githubusercontent.com/khaddeshivam/khaddeshivam/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 🕹️ Easter Egg
+
+<details>
+<summary><b>▶ Press Start</b></summary>
+
+<br/>
+
+```text
+╔══════════════════════════════════════╗
+║              SHIVAM.EXE             ║
+╠══════════════════════════════════════╣
+║ CLASS      : SDE                    ║
+║ SPECIALTY  : GENAI / AGENTS         ║
+║ STATUS     : BUILDING               ║
+║ CURIOSITY  : ████████████████████   ║
+║ COFFEE     : REQUIRED               ║
+╚══════════════════════════════════════╝
+```
+
+**Achievement unlocked:** you scrolled this far.
+
+</details>
+
+---
+
+# 🌌 What I Want to Explore Next
+
+Agentic systems that can **retrieve → reason → use tools → act → evaluate**.
+
+Not just another chatbot.
+
+Something that actually **does useful work**.
+
+---
+
+<div align="center">
+
+### Thanks for visiting the lab.
+
+**There is probably another experiment hiding somewhere in these repositories.**
+
+<br>
+
+`Build something curious.`
+
+</div>
